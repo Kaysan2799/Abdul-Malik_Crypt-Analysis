@@ -1,4 +1,4 @@
-# **Cryptanalysis Toolkit: Fermat's and Division Factorization Algorithms**  
+# **Assignment: Fermat's and Division Factorization Algorithms**  
 
 ## **Overview**  
 This repository contains two fundamental integer factorization algorithms:  
