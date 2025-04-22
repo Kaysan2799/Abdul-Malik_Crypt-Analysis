@@ -25,7 +25,7 @@ Factors: (102 + 1) × (102 - 1) = 103 × 101
 ```  
 
 ### **Image Reference**  
-![Fermat's Algorithm](ferments_DOS.jpg)  
+![Fermat's Algorithm](ferments_DOS.jpg.png)  
 
 ### **When to Use**  
 - `n` is odd.  
@@ -48,7 +48,7 @@ Prime Factors: 2 × 2 × 3 × 5
 ```  
 
 ### **Image Reference**  
-![Division Algorithm](division_method.jpg)  
+![Division Algorithm](division_method.jpg.png)  
 
 ### **When to Use**  
 - General-purpose factorization.  
